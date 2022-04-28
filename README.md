@@ -1,7 +1,7 @@
 ### Olá, eu sou Aíla Brito!!
 
 - Iniciando na área de Programação 
-- 🌱 Atualmente estou aprendendo node.js and C# 
+- 🌱 Atualmente aprendendo node.js and C# 
 - 📚 Cursos atuais ConstruDelas e Nulab 
 
 
