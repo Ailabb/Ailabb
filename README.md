@@ -2,7 +2,7 @@
 
 - Iniciando na área de Programação 
 - 🌱 Atualmente aprendendo node.js and C# 
-- 📚 Cursos atuais ConstruDelas e Nulab 
+- 📚 Curso atual ConstruDelas - WoMAkersCode
 
 
 <div align="center">
